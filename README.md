@@ -20,7 +20,7 @@
         android:layout_height="match_parent"
         android:layout_marginBottom="100dp" />        
     
-    <com.practice.videorecordermodel.view.RecordButton
+    <com.practice.videorecordermodel.view.RecordButton--这里有修改，用新的自定义view 仿照微信效果
             android:id="@+id/RecorderButton"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
